@@ -3,6 +3,8 @@ International Debt Statistics - Data Visualization done using PowerBI
 
 - Dataset : https://datacatalog.worldbank.org/dataset/international-debt-statistics
 
+FYI : Visualizations are exported as .pdf formats 
+
 Questions addressed : 
 
 1. The World Bank's international debt data
