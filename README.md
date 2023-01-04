@@ -18,4 +18,3 @@ Questions addressed :
 9. Other viable debt issues and conclusion
 
 Technologies Used : Power Query for Data Cleaning, Power Pivot for Data Analysis (Calculated Columns and Measures), Power View for Visualization. 
-
