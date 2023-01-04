@@ -2,8 +2,8 @@
 International Debt Statistics - Data Visualization done using PowerBI
 
 - Dataset : https://datacatalog.worldbank.org/dataset/international-debt-statistics
-
-FYI : Visualizations are exported as .pdf formats 
+- Visualizations are exported as .pdf formats 
+- FileName "Understanding Visuals" for detailed explanation on the visuals
 
 Questions addressed : 
 
