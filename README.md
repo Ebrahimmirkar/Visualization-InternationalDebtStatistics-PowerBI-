@@ -17,4 +17,4 @@ Questions addressed :
 8. The most common debt indicator
 9. Other viable debt issues and conclusion
 
-Technologies Used : Power Query for Data Cleaning, Power Pivot for Data Analysis (Calculated Columns and Measures), Power View for Visualization. 
+Technologies Used : PowerBI Desktop, Excel
