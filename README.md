@@ -4,7 +4,7 @@ International Debt Statistics - Data Visualization done using PowerBI
 - Dataset : https://datacatalog.worldbank.org/dataset/international-debt-statistics
 - Visualizations are exported as .pdf formats 
 - FileName "Understanding Visuals" for detailed explanation on the visuals
-
+- Technologies Used : Excel, PowerBI Desktop, PowerBI Service 
 - Published on PowerBI Service : 
 
 https://app.powerbi.com/view?r=eyJrIjoiOTQ5ZGU5ZTUtYTJiNi00ZGMyLTg3Y2YtYWVkOWNiZTY2MDFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
@@ -28,4 +28,4 @@ Questions addressed :
 8. The most common debt indicator
 9. Other viable debt issues and conclusion
 
-Technologies Used : Excel, PowerBI Desktop, PowerBI Service 
+
