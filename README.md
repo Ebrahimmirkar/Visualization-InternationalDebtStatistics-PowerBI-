@@ -5,6 +5,17 @@ International Debt Statistics - Data Visualization done using PowerBI
 - Visualizations are exported as .pdf formats 
 - FileName "Understanding Visuals" for detailed explanation on the visuals
 
+- Published on PowerBI Service : 
+
+https://app.powerbi.com/view?r=eyJrIjoiOTQ5ZGU5ZTUtYTJiNi00ZGMyLTg3Y2YtYWVkOWNiZTY2MDFiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
+Tasks : 
+1. Understanding and cleaning the data
+2. Making necessary changes to prepare the data for analysis 
+3. Performing EDA
+4. Visualisation
+
 Questions addressed : 
 
 1. The World Bank's international debt data
@@ -17,4 +28,4 @@ Questions addressed :
 8. The most common debt indicator
 9. Other viable debt issues and conclusion
 
-Technologies Used : PowerBI Desktop, Excel
+Technologies Used : Excel, PowerBI Desktop, PowerBI Service 
