@@ -12,7 +12,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOTQ5ZGU5ZTUtYTJiNi00ZGMyLTg3Y2YtYWVkOWNiZ
 
 Tasks : 
 1. Understanding and cleaning the data
-2. Making necessary changes to prepare the data for analysis 
+2. Performing Data transformation
 3. Performing EDA
 4. Visualisation
 
